@@ -12,6 +12,11 @@ docker compose up
 > - LANGFUSE_PUBLIC_KEY
 > - LANGFUSE_HOST
 
+```python
+# Install the requirements
+pip install -r requirements.txt
+```
+
 ### Required Files
 
 We have to make a json file called `questions.json` with the following format:
